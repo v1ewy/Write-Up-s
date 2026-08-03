@@ -10,7 +10,7 @@
 
 |room|difficulty|topics|writeup|
 |---|---|---|---|
-|[Pickle Rick](https://tryhackme.com/room/picklerick)|`Easy`|web enum · leaked creds · privesc|[RU](https://claude.ai/chat/PickleRick/README.ru.md) · EN _(soon)_|
+|[Pickle Rick](https://tryhackme.com/room/picklerick)|`Easy`|web enum · leaked creds · privesc|[RU](https://github.com/v1ewy/Write-Up-s/Pickle%20Rick/README.ru.md) · EN _(soon)_|
 |[RootMe](https://tryhackme.com/room/rrootme)|`Easy`|web enum · file upload · privesc|_in progress_|
 
 <br/>
