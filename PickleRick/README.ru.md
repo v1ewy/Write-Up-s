@@ -2,8 +2,7 @@
 
 # Pickle Rick
 
-[![Difficulty](https://img.shields.io/badge/Difficulty-Easy-000000?style=for-the-badge&logoColor=ff0000)](https://tryhackme.com/room/picklerick) [![Category](https://img.shields.io/badge/Web-000000?style=for-the-badge&logoColor=ff0000)](https://claude.ai/chat/5bb90ebf-dfa9-4b27-80b9-c234f218956f) [![Category](https://img.shields.io/badge/Privesc-000000?style=for-the-badge&logoColor=ff0000)](https://claude.ai/chat/5bb90ebf-dfa9-4b27-80b9-c234f218956f)
-
+[![Difficulty](https://img.shields.io/badge/Difficulty-Easy-000000?style=for-the-badge&logoColor=ff0000)](https://tryhackme.com/room/picklerick) [![Category](https://img.shields.io/badge/Web-000000?style=for-the-badge&logoColor=ff0000)] [![Category](https://img.shields.io/badge/Privesc-000000?style=for-the-badge&logoColor=ff0000)]
 </div> <br/>
 
 ## `./recon`
