@@ -8,10 +8,10 @@
 
 ## `./rooms`
 
-|room|difficulty|topics|writeup|
-|---|---|---|---|
-|[Pickle Rick](https://tryhackme.com/room/picklerick)|`Easy`|web enum · leaked creds · privesc|[RU](./PickleRick/README.ru.md) · [EN](./PickleRick/README.en.md)|
-|[RootMe](https://tryhackme.com/room/rrootme)|`Easy`|web enum · file upload · privesc|_in progress_|
+| room                                                 | difficulty | topics                            | writeup                                                           |
+| ---------------------------------------------------- | ---------- | --------------------------------- | ----------------------------------------------------------------- |
+| [Pickle Rick](https://tryhackme.com/room/picklerick) | `Easy`     | web enum · leaked creds · privesc | [RU](./PickleRick/README.ru.md) · [EN](./PickleRick/README.en.md) |
+| [RootMe](https://tryhackme.com/room/rrootme)         | `Easy`     | web enum · file upload · privesc  | [RU](./RootMe/README.ru.md) · [EN](./RootMe/README.en.md)         |
 
 <br/>
 
