@@ -8,10 +8,11 @@
 
 ## `./rooms`
 
-| room                                                 | difficulty | topics                            | writeup                                                           |
-| ---------------------------------------------------- | ---------- | --------------------------------- | ----------------------------------------------------------------- |
-| [Pickle Rick](https://tryhackme.com/room/picklerick) | `Easy`     | web enum · leaked creds · privesc | [RU](./PickleRick/README.ru.md) · [EN](./PickleRick/README.en.md) |
-| [RootMe](https://tryhackme.com/room/rrootme)         | `Easy`     | web enum · file upload · privesc  | [RU](./RootMe/README.ru.md) · [EN](./RootMe/README.en.md)         |
+| room                                                             | difficulty | topics                                   | writeup                                                           |
+| ---------------------------------------------------------------- | ---------- | ---------------------------------------- | ----------------------------------------------------------------- |
+| [Pickle Rick](https://tryhackme.com/room/picklerick)             | `Easy`     | web enum · leaked creds · privesc        | [RU](./PickleRick/README.ru.md) · [EN](./PickleRick/README.en.md) |
+| [RootMe](https://tryhackme.com/room/rrootme)                     | `Easy`     | web enum · file upload · privesc         | [RU](./RootMe/README.ru.md) · [EN](./RootMe/README.en.md)         |
+| [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) | `Easy`     | smb enum · bruteforce · ssh key cracking | [RU](./BasicPentesting/README.ru.md) · [EN](./BasicPentesting/README.en.md)                                                          |
 
 <br/>
 
