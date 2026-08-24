@@ -13,7 +13,8 @@
 | [Pickle Rick](https://tryhackme.com/room/picklerick)             | `Easy`     | web enum · leaked creds · privesc                         | [RU](./PickleRick/README.ru.md) · [EN](./PickleRick/README.en.md)           |
 | [RootMe](https://tryhackme.com/room/rrootme)                     | `Easy`     | web enum · file upload · privesc                          | [RU](./RootMe/README.ru.md) · [EN](./RootMe/README.en.md)                   |
 | [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) | `Easy`     | smb enum · bruteforce · ssh key cracking                  | [RU](./BasicPentesting/README.ru.md) · [EN](./BasicPentesting/README.en.md) |
-| [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)         | `Easy`     | ftp anon login · credential bruteforce · GTFOBins privesc | [RU](./BountyHacker/README.ru.md) · [EN](./BountyHacker/README.en.md)                                        |
+| [Bounty Hacker](https://tryhackme.com/room/cowboyhacker)         | `Easy`     | ftp anon login · credential bruteforce · GTFOBins privesc | [RU](./BountyHacker/README.ru.md) · [EN](./BountyHacker/README.en.md)       |
+| [Mr Robot CTF](https://tryhackme.com/room/mrrobot)               | `Medium`   | wordpress · reverse shell · hash cracking · nmap privesc  | [RU](./MrRobotCTF/README.ru.md) · [EN](./MrRobotCTF/README.en.md)           |
 
 <br/>
 
